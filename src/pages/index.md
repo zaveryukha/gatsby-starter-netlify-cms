@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Надежда Украины
+image: /img/fon1.webp
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: ФОРУМ НАЦИОНАЛЬНОГО ПОКАЯНИЯ
 mainpitch:
-  title: Why Kaldi
+  title: О нас
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Почти год назад собралась наша небольшая группа, размышлявшая о судьбе
+    своего родного украинского народа, за который у каждого особенно болит душа,
+    как болит за свою семью и родных. Нас вдохновлял пример покаяния
+    представителей других народов – русского и еврейского.
+
+    Поддерживая друг друга, мы старались расчистить подлинную картину недавней истории в понимании, что призыв к покаянию – это не осуждение, а стремление разделить ту скорбь, в которой находится сейчас народ, и призыв Божьей помощи для её исцеления.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +47,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: Покаянная молитва украинского народа
 main:
   heading: Great coffee with no compromises
   description: >
